@@ -9,7 +9,7 @@ The dataset used in this project is the "Heart Disease Dataset". Download url: h
 ## Project Structure
 
 The project consists of the following files:
-- `train_svm.py`: Script to train and evaluate the SVM model.
+- `train.py`: Script to train and evaluate the SVM model.
 - `train_sgd.py`: Script to train and evaluate the SGD model.
 - `README.md`: Project documentation.
 
